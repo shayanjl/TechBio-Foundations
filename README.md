@@ -8,29 +8,29 @@ Each notebook focuses on one key element of the TechBio pipeline, progressing fr
 
 ## 📘 Notebook Series
 
-### **1. TechBio Flywheel**  
+### [1. TechBio Flywheel](1.%20TechBio_Flywheel.ipynb)  
 Introduces the fundamental learning loop that underpins modern TechBio platforms:  
 **Biology → Data → Models → Validation → Improved Biology**.  
 This notebook establishes the conceptual framework for all subsequent examples.
 
-### **2. TechBio Data Pipeline**  
+### [2. TechBio Data Pipeline](2.%20TechBio_Data_Pipeline.ipynb)  
 Demonstrates how raw laboratory output is transformed into structured, clean, and analysis-ready data.  
 Includes column standardization, handling missing values, basic QC, and simple feature engineering.
 
-### **3. TechBio First Model**  
+### [3. TechBio First Model](3.%20TechBio_First_Model.ipynb)  
 Builds a minimal predictive model using the cleaned dataset.  
 The aim is to illustrate workflow structure rather than deep machine learning theory:  
 defining features, targets, splitting data, training, evaluation, and basic interpretation.
 
-### **4. TechBio Learning Loop**  
+### [4. TechBio Learning Loop](4.%20TechBio_Learning_Loop.ipynb)  
 Simulates an iterative learning cycle in which models guide experiments, and new experiments generate improved data.  
 This notebook illustrates active learning behavior and the dynamics of model-driven experimentation.
 
-### **5. TechBio Value of Scaling**  
+### [5. TechBio Value of Scaling](5.%20TechBio_Value_of_Scaling.ipynb)  
 A simple quantitative model showing how scaling the loop increases scientific, technical, and commercial value.  
 Readers can adjust assumptions and observe how faster cycles, better assays, and automation compound value over time.
 
-### **6. TechBio Automation**  
+### [6. TechBio Automation](6.%20TechBio_Automation.ipynb)  
 Introduces lightweight automation patterns suitable for small TechBio teams.  
 Shows how to wrap workflows into functions, process multiple experiments in batches, and save outputs (cleaned data, models, metrics) for reproducibility.
 
@@ -71,4 +71,3 @@ This project is released under an open license to support learning, teaching, an
 ---
 
 For questions or additional context, refer to the accompanying book materials.
-
